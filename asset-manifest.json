@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carcarvroom.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/carcarvroom.github.io/static/js/main.9deeaaa2.chunk.js",
+    "main.js.map": "/carcarvroom.github.io/static/js/main.9deeaaa2.chunk.js.map",
+    "runtime-main.js": "/carcarvroom.github.io/static/js/runtime-main.06eda792.js",
+    "runtime-main.js.map": "/carcarvroom.github.io/static/js/runtime-main.06eda792.js.map",
+    "static/js/2.d349abb0.chunk.js": "/carcarvroom.github.io/static/js/2.d349abb0.chunk.js",
+    "static/js/2.d349abb0.chunk.js.map": "/carcarvroom.github.io/static/js/2.d349abb0.chunk.js.map",
+    "index.html": "/carcarvroom.github.io/index.html",
+    "precache-manifest.a85e69ffcef900b31e6b3d8a813c3b3e.js": "/carcarvroom.github.io/precache-manifest.a85e69ffcef900b31e6b3d8a813c3b3e.js",
+    "service-worker.js": "/carcarvroom.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/carcarvroom.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d349abb0.chunk.js.LICENSE.txt": "/carcarvroom.github.io/static/js/2.d349abb0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/carcarvroom.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06eda792.js",
+    "static/js/2.d349abb0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9deeaaa2.chunk.js"
+  ]
+}
