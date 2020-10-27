@@ -27,3 +27,9 @@
 		});
 
 })(jQuery);
+
+const kittenPictures = document.getElementById('kitten-pictures')
+const kittenPicButton = document.getElementById('kitten-button')
+kittenPicButton.addEventListener('click', () => {
+    kittenPictures.style.display = 'block'
+})
