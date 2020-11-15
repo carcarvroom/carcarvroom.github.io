@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+# Carly La
 
-Theme Name: eStartup
-Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+## Portfolio Website
+
+Please visit at [www.carlyla.com](https://carlyla.com/)!
